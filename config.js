@@ -1,6 +1,6 @@
 module.exports = ({
 
-	token: 1188090440:AAGyrziiUOWCsLEwVC24S9dkUEoHJLaa8vw,	//1188090440:AAGyrziiUOWCsLEwVC24S9dkUEoHJLaa8vw
+	token: "1188090440:AAGyrziiUOWCsLEwVC24S9dkUEoHJLaa8vw",	//1188090440:AAGyrziiUOWCsLEwVC24S9dkUEoHJLaa8vw
 
 	botId: 1188090440,
 
